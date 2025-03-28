@@ -1,5 +1,5 @@
 # GEOG-428-BeSpoke-Solutions
-Python scripts developed by Team BeSpoke Solutions as part of deliverables for GEOG 428: Advanced Topics in GIS at the University of Victoria. Scripts written by Jenni Buskas with help from Oliver James and Vanessa Clark.
+Python scripts developed by Team BeSpoke Solutions as part of deliverables for GEOG 428: Advanced Topics in GIS at the University of Victoria. Scripts written by Jenni Buskas, Oliver James, and Vanessa Clark.
 
 ## Setup:
 To run these scripts, you will need ArcGIS Pro installed on the same computer on which you are running the scripts. Follow these instructions for first-time setup of an ArcPy environment: https://pro.arcgis.com/en/pro-app/3.3/arcpy/get-started/installing-arcpy.htm
